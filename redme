@@ -1,0 +1,3 @@
+docker-compose up -d
+http://localhost:4001  >> >Number of visits is 1 F5 +1
+docker-compose down
